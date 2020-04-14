@@ -4,7 +4,7 @@ public class Product
     
     public Product()
     {
-        setName(name);
+        setName("Coca Cola");
     }
     
     public String getName()
